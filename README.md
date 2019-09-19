@@ -27,7 +27,7 @@ This project functions as a calculator for addition operation.
 
 ## Link to website
 
-[website][https://abel-b.github.io/Abel-s-Calculator/]
+[website](https://abel-b.github.io/Abel-s-Calculator/)
 
 ### License
 
