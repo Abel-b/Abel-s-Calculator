@@ -16,7 +16,7 @@ This project functions as a calculator for addition operation.
 ## Setup
 
 - clone this repository
-  `https://github.com/Abel-b/Calculator.git`
+  `https://github.com/Abel-b/Abel-s-Calculator.git`
 - open index.html with web-browser
 
 ## Technologies Used
@@ -27,7 +27,7 @@ This project functions as a calculator for addition operation.
 
 ## Link to website
 
-[website](https://abel-b.github.io/Calculator/)
+[website][https://abel-b.github.io/Abel-s-Calculator/]
 
 ### License
 
